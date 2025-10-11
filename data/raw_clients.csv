@@ -1,0 +1,8 @@
+Client ID,Full Name,Email,Phone,Signup Date,Plan,Country,Company,Notes
+1,   Alice   Smith  ,ALICE.SMITH@Example.COM, +852  6123-4567 ,2024-01-02,Pro,HK,Acme  , VIP
+2,Bob Jones,bob.jones[at]mail.com,  (021) 812-3344  ,01/15/2024,Basic,ID,Fuga Ltd,"typo email"
+3,Charlie,,+62 812-0000-000,2024/02/30,Pro,ID,,no email
+4,,dora@sample.io, ,2024-03-05,Pro,HK,Innotech,"missing name"
+5,Edward Nigma,edward.nigma@sample.io,+1 (415) 555-1212,03-05-2024,Enterprise,US,Riddler Inc.,"ok"
+5,Edward Nigma,EDWARD.NIGMA@sample.io,+1-415-555-1212,2024-03-05,Enterprise,US,Riddler Inc.,"dup id & email"
+,No Phone Or Email,, ,2024-04-01,Free,HK,,"drop me"

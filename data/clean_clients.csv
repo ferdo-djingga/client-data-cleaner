@@ -1,0 +1,6 @@
+client_id,first_name,last_name,full_name,email,email_domain,phone,signup_date,plan,country,company,notes
+1,Alice,Smith,Alice   Smith,alice.smith@example.com,example.com,+85261234567,2024-01-02,Pro,HK,Acme,VIP
+2,Bob,Jones,Bob Jones,bob.jones[at]mail.com,bob.jones[at]mail.com,0218123344,,Basic,ID,Fuga Ltd,typo email
+3,Charlie,,Charlie,,,+628120000000,,Pro,ID,,no email
+4,,,,dora@sample.io,sample.io,,2024-03-05,Pro,HK,Innotech,missing name
+5,Edward,Nigma,Edward Nigma,edward.nigma@sample.io,sample.io,+14155551212,,Enterprise,US,Riddler Inc.,ok
