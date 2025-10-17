@@ -10,23 +10,6 @@ The cleaner reads a raw CSV file of client information, fixes common issues, rem
 
 ---
 
-## Project Structure
-
-Client-Data-Onboarding-Cleaner/
-├─ src/
-│  └─ cleaner.py            # main cleaning logic & CLI
-├─ data/
-│  ├─ raw_clients.csv       # sample messy data (input)
-│  └─ clean_clients.csv     # cleaned dataset (output)
-├─ output/
-│  └─ validation_report.html # generated quality report
-├─ tests/
-│  └─ test_cleaner.py       # automated tests
-├─ README.md
-└─ benchmark.md
-
----
-
 ## Instructions
 1. **Set up the environment**  
    Create and activate a virtual environment (recommended):
